@@ -42,7 +42,7 @@
             btnRunAway.TabIndex = 0;
             btnRunAway.Text = "나를 잡아봐";
             btnRunAway.UseVisualStyleBackColor = false;
-            btnRunAway.Click += button1_Click;
+            btnRunAway.Click += BtnRunAway_Click;
             btnRunAway.MouseEnter += btnRunAway_MouseEnter;
             // 
             // Form1
