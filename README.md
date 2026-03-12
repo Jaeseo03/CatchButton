@@ -60,7 +60,7 @@
 
 
 ### 4단계
-![2주차 과제 4단계 실행화면](https://github.com/user-attachments/assets/be5432ca-1fc5-44e9-9aac-67ebe54c7638)
+![2주차 과제 4단계 실행화면](https://github.com/user-attachments/assets/8df39e15-a9b9-4131-8a3e-290623d41ce9)
 > **상태**: 게임 오버 기능 및 다시시작 기능 구현 완료
 
 ---
